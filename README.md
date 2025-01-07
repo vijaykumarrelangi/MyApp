@@ -31,6 +31,7 @@ Make sure you have Node.js and React Native CLI installed on your machine.
 npm install
 ```
 3.** Run the app: **
+
 For iOS:
 ```bash
 npx react-native run-ios
