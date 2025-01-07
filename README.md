@@ -70,7 +70,5 @@ We welcome contributions! If you'd like to contribute, please follow these steps
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Save this content as `README.md` in your project directory.
 
-Let me know if you need further adjustments!
 
